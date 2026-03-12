@@ -43,11 +43,11 @@
 ├── general*.bat                # конфиги для Windows
 ├── lists/                      # списки хостов (general, exclude, ipset…)
 ├── linux-configs/
-│   ├── run_zapret.sh           # скрипт запуска nfqws на Linux
-│   ├── README.txt
-│   ├── *.conf                  # конфиги для nfqws (генерируются из .bat)
-│   └── fake/                   # сюда класть .bin (quic_*, tls_clienthello_*)
-└── zapret-auto-update-ubuntu/   # вариант окружения для Ubuntu
+   ├── run_zapret.sh           # скрипт запуска nfqws на Linux
+   ├── README.txt
+   ├── *.conf                  # конфиги для nfqws (генерируются из .bat)
+   └── fake/                   # сюда класть .bin (quic_*, tls_clienthello_*)
+
 ```
 
 ## Лицензия
